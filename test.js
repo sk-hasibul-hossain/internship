@@ -1,3 +1,3 @@
-const importedMyName=require("./second");
+const importedMyName = require("./second");
 
 console.log(importedMyName);
