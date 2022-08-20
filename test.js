@@ -1,1 +1,3 @@
-console.log("Hi");
+const importedMyName=require("./second");
+
+console.log(importedMyName);
